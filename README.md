@@ -3,8 +3,11 @@
 # Aim: Perform operations on cpu log files and also do visualization of the result.
 # Operations:
 Display users and their record counts
+
 Finding users with highest number of average hours
+
 Finding users with lowest number of average hours
+
 Finding users with highest numbers of idle hours
 # Step1: start Hadoop
 start-all.sh
